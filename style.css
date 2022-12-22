@@ -1,0 +1,73 @@
+.container
+    {
+        display: table;
+        margin: auto;
+        width:50%;
+    
+        margin-top: 10%;
+        background-size: cover;
+    }
+    .divRow
+    {
+        
+            display: table;
+            margin: auto;
+            width:100%;
+            margin-top: 10%;
+            background-size: cover;
+        
+    }
+    .Cell1
+    {
+        display: table-cell;
+        border: solid black;
+        width: 500px;
+        height:10vh;
+        padding:5px;
+        margin:30px;
+       text-align: center;
+       border-radius: 150px;
+        border-width: thin;
+        padding-left: 5px;
+        padding-right: 5px;
+        background-color:white;
+    }
+.Table
+    {
+        display: table;
+        margin: auto;
+        width:100%;
+        margin-top: 10%;
+        background-size: cover;
+    }
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-caption;
+        border: solid white;
+        background-color: rgb(131, 96, 50);
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+    }
+    .Cell
+    {
+        display: table-cell;
+        border: solid white;
+        border-width: thin;
+        padding-left: 5px;
+        padding-right: 5px;
+        background-color: black;
+    }
+    p{
+        color:rgb(202, 17, 17);
+    }
